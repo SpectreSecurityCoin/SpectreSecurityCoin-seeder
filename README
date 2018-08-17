@@ -1,7 +1,7 @@
-xp-seeder
+SpectreSecurityCoin-seeder
 ==============
 
-xp-seeder is a crawler for the xp network, which exposes a list
+SpectreSecurityCoin-seeder is a crawler for the SpectreSecurityCoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
